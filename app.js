@@ -9,7 +9,7 @@ paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 // Foi criada uma funçõ verificarChute no botão na linha 27, agora vou chamar ela.
 
 let listaDeNumerosSorteados = []; // Lista vazia
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio()
 let tentativa = 1
 
